@@ -1,0 +1,278 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top:15px;
+  height: 100px;
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.buildings {
+  float:center;
+  width:100%;
+  height:500px;
+}
+.title-build{
+  background-color: rgb(32, 101, 136);
+  color:white;
+  font-family: arial;
+  position: absolute;
+  bottom: 330px;
+  left: 240px;
+  width:500px;
+  font-size:45px;
+}
+.first-p{
+  background-color: rgb(32, 101, 136);
+  color:white;
+  font-family: arial;
+  position: absolute;
+  bottom: 290px;
+  left: 240px;
+  width:430px;
+  font-size:14px;
+  height:60px;
+}
+.logo-npm {
+  padding-inline-end:0;
+  background-color: rgb(32, 101, 136);
+  Width: 10%;
+  height:52px;
+  position: absolute;
+}
+.search {
+  float:center;
+  background-color: rgb(32, 101, 136);
+  Width:920px;
+  position: absolute;
+  left:146px;
+  height:50px;
+  font-size:25px;
+  padding-left:5px;
+  border:none;  
+}
+.login-signup{
+  position: absolute;
+  right:70px;
+  width:160px;
+  display:inline-block;
+  height:52px;
+  padding-left:10px;
+  bottom:493px;
+  background-color:rgb(32, 101, 136);
+  border:none;
+}
+.bear-logo{
+  position: absolute;
+  right:20px;
+  height:51px;
+  bottom:493px;
+}
+.search-button {
+  position: absolute;
+  left:1070px;
+  width:84px;
+  height:52px;
+  bottom:493px;
+  background-color:rgb(32, 101, 136);
+  border:none;
+  font-size:18px;
+  color:lightgray;
+}
+.button {
+  float:right;
+  padding-top: 40px;
+  margin-left: 0;
+  background-color: rgb(32, 101, 136);
+}
+.signup{
+  color:white;
+  position: absolute;
+  right:950px;
+  bottom:240px;
+  height:50px;
+  font-size:16px;
+  background: orange;
+  border-radius: 20px;
+  text-decoration-line: none;  
+  width:200px;
+  font-size:18px;
+  border:none;
+}
+.collaboration {
+  width: 40%;
+  padding-left: 224px;
+  padding-right: 600px;
+  background-color: rgb(39, 53, 71);
+  padding-bottom:50px;
+  height: 500px;
+  border:none;
+}
+.title{
+  position: absolute;
+  right:80px;
+  top:705px;
+  font-size:35px;
+  width:420px;
+  color:white;
+  font-weight: lighter;
+  height:35px;
+  letter-spacing: 2px;
+}
+.top-list{
+  position: absolute;
+  right:60px;
+  top:820px;
+  font-size:16px;
+  width:420px;
+  color:white;
+  height:32px;
+  line-height: 50px;
+}
+.signup-orgs{
+  position: absolute;
+  right:320px;
+  top:990px;
+  font-size:20px;
+  color:white;
+  background-color:red;
+  width:160px;
+  height:30px;
+  text-align: center;
+  text-decoration-line: none;
+  border-radius: 10px;
+}
+.learn-more{
+  position: absolute;
+  right:320px;
+  top:1030px;
+  font-size:16px;
+  color:lightgray;
+  width:150px;
+}
+.forklift-image{
+  width:100%;
+  height:600px;
+}
+.what-npm{
+  position: absolute;
+  left:200px;
+  bottom:800px;
+  top:1300px;
+  font-size:50px;
+  font-weight: lighter;
+  color:white;
+  font-stretch: normal;
+  width:500px;
+  width:100%;
+  border-block-start-color: rgb(13, 255, 0);
+}
+.second-p{
+  position: absolute;
+  left:200px;
+  bottom:800px;
+  top:1400px;
+  width:410px;
+  font-size:22px;
+  font-weight: lighter;
+  color:white;
+}
+.install{
+  position: absolute;
+  color:white;
+  left:200px;
+  bottom:800px;
+  top:1525px;
+  font-size:24px;
+  background-color:dimgray;
+  text-decoration-line: none;
+  border-radius: 30px;
+  padding-top:15px;
+  padding-right:20px;
+  padding-left:20px;
+  padding-bottom:40px;
+  text-align:center;
+  font-weight: lighter;
+}
+.footer{
+  text-align: center;
+  font-size:40px;
+  letter-spacing: 2px;
+  font-weight:bold;
+}
+.footer-p{
+  text-align: center;
+  color:rgb(162, 158, 158);
+  font-size:18px;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
+.find{
+  position:absolute;
+  left:180px;
+  top:1975px;
+}
+.find-header{
+  position:absolute;
+  left:210px;
+  top:2070px;
+  font-size:30px;
+}
+.find-p{
+  position:absolute;
+  left:110px;
+  top:2150px;
+  width:240px;
+  text-align: center;
+  font-size:18px;
+}
+.discover{
+  position:absolute;
+  left:620px;
+  top:1975px;
+}
+.discover-header{
+  position:absolute;
+  left:625px;
+  top:2070px;
+  font-size:30px;
+}
+.discover-p{
+  position:absolute;
+  left:570px;
+  top:2150px;
+  width:220px;
+  text-align: center;
+  font-size:18px;
+}
+.backpack{
+  position:absolute;
+  left:1070px;
+  top:1975px;
+}
+.backpack-header{
+  position:absolute;
+  left:1100px;
+  top:2100px;
+  top:2070px;
+  font-size:30px;
+}
+.backpack-p{
+  position:absolute;
+  left:1000px;
+  top:2150px;
+  width:240px;
+  text-align: center;
+  font-size:18px;
+}
